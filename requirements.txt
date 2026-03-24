@@ -1,19 +1,20 @@
 autopep8==1.6.0
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==3.0.4
 click==7.1.2
-Flask==2.2.5
-gunicorn==21.2.0
+Flask==3.1.3
+gunicorn==22.0.0
 idna==3.7
 itsdangerous==1.1.0
-Jinja2==3.1.3
+Jinja2==3.1.4
 MarkupSafe==2.0.1
 pycodestyle==2.8.0
 python-dotenv==0.14.0
-requests==2.31.0
+requests==2.32.2
 toml==0.10.2
-urllib3==1.26.17
-Werkzeug==2.2.3
+urllib3==1.26.18
+Werkzeug==2.3.8
 colorthief==0.2.1
 pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
