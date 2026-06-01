@@ -6,13 +6,13 @@ Flask==3.1.3
 gunicorn==23.0.0
 idna==3.15
 itsdangerous==1.1.0
-Jinja2==3.1.5
+Jinja2==3.1.6
 MarkupSafe==2.0.1
 pycodestyle==2.8.0
 python-dotenv==1.2.2
 requests==2.32.2
 toml==0.10.2
-urllib3==1.26.19
+urllib3==2.5.0
 Werkzeug==2.3.8
 colorthief==0.2.1
 pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
